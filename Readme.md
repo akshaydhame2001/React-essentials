@@ -1,3 +1,3 @@
-#React Essentials
+# React Essentials
 
 ![img](React-essentials.jpeg)
